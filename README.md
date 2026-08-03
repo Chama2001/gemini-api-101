@@ -8,6 +8,7 @@ The lessons in this repository are structured simply. We are starting with **Pyt
 
 *   📁 **`01-setup-and-auth`** - How to get your free API key and write your very first Gemini AI script.
 *   📁 **`02-basic-text-generation`** - Learn how to generate text and answer simple questions using Gemini.
+*   📁 **`03-chat-sessions`** - How to maintain conversation history and build a basic chatbot.
 *   *(More modules coming soon!)*
 
 ## 🛠️ Getting Started
