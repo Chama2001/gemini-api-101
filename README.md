@@ -7,6 +7,7 @@ Welcome to **Gemini API 101**! This is a beginner-friendly, step-by-step guide d
 The lessons in this repository are structured simply. We are starting with **Python**.
 
 *   📁 **`01-setup-and-auth`** - How to get your free API key and write your very first Gemini AI script.
+*   📁 **`02-basic-text-generation`** - Learn how to generate text and answer simple questions using Gemini.
 *   *(More modules coming soon!)*
 
 ## 🛠️ Getting Started
