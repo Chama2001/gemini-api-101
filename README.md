@@ -1,6 +1,3 @@
-# gemini-api-101
-A beginner-friendly guide to learning and building with Google's Gemini API.
-
 # 🚀 Gemini API 101
 
 Welcome to **Gemini API 101**! This is a beginner-friendly, step-by-step guide designed to help you learn and build intelligent applications using Google's powerful Gemini API. 
